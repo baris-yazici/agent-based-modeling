@@ -1,4 +1,4 @@
-# agent-based-modeling
+# Discrimination in Algorithmic Decision Making
 
 Welcome! This repository was created for the ST 313 Ethics for Data Science Final Project at London School of Economics. The goal of our project was to explore the discrimination in algorithmic decision making using agent-based models.
 
